@@ -1,7 +1,5 @@
 Hello everyone!
 
-![IMG_9815](https://github.com/user-attachments/assets/1253de49-b36a-41b3-b982-a77e2c66bb25)
-
 This is Joseph Alexander Lambert (j4lambert, he/him), who is the creator of the Serenity Rune AI project (named after a character I created in The Sims 4).
 
 ### 🏗️ Aspiring Technical Archivist & Software QA
