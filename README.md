@@ -1,4 +1,6 @@
-<img src="github.com/j4lambert/j4lambert/IMG_9815.jpg" width="150" alt="Joseph Lambert">
+| Profile Identity |
+| :---: |
+| ![j4lambert](https://github.com/j4lambert/IMG_9815.jpg) |
 
 Hello everyone!
 
