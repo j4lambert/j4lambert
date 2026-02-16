@@ -1,4 +1,4 @@
-<img src="https://github.com/j4lambert/j4lambert/blob/main/IMG_9815.JPG" width="150">
+<img src="https://github.com/j4lambert/j4lambert/blob/main/IMG_9815.JPG" width="200">
 
 **Hello everyone!**
 
