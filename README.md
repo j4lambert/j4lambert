@@ -1,16 +1,23 @@
-## Hi there 👋
+Hello everyone.
 
-<!--
-**j4lambert/j4lambert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is Joseph Alexander Lambert (j4lambert, he/him), who is the creator of the Serenity Rune AI project (named after a character I created in The Sims 4).
 
-Here are some ideas to get you started:
+### 🏗️ Aspiring Technical Archivist & Software QA
+I am a detail-oriented professional currently in the **Poisitive Transitions to Work Program (Class of 2027)**, focusing on the intersection of **Architectural Drafting** and **Coding Development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technical Toolkit
+- **Proficiency:** AutoCad, Revit
+- **Languages:** Python, HTML, CSS, Javascript
+- **Interests:** Software Quality Assurance (QA), BIM/CAD Support, Logic-based Design.
+
+## 📁 Featured Work
+- **Architecture portfolio:** https://lambja.wixsite.com/j4lambert
+
+---
+
+## 📫 Let's Connect
+- **Goal:** Seeking a professional placement in a New York architectural firm or tech startup for 2027.
+- **GitHub:** j4lambert
+- **LinkedIn:** j4lambert
