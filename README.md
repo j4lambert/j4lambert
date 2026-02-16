@@ -1,4 +1,4 @@
-<img src="github.com/j4lambert/j4lambert/IMG_9815.png" width="150" alt="Joseph Lambert">
+<img src="github.com/j4lambert/j4lambert/IMG_9815.jpg" width="150" alt="Joseph Lambert">
 
 Hello everyone!
 
