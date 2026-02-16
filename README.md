@@ -1,4 +1,4 @@
-![IMG_9815](https://github.com/user-attachments/assets/9d716062-7c1a-461a-b528-2a0b625489cb)
+<img src="https://github.com/j4lambert/j4lambert/IMG_9815.jpg" width="150">
 
 **Hello everyone!**
 
